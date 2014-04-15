@@ -18,7 +18,8 @@ GitHub同时提供付费账户和为开源项目提供的免费账户。允许�
 * github-blog
 * github-Issues
 * 支持`markdown`语法
-* 预览区域`代码高亮`
+* 预览区域代码高亮
+* 当然要是你够热爱github社区的话可以[猛戳这里](http://shop.github.com/ "github-shop")
 
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
