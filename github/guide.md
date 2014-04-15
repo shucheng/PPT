@@ -37,8 +37,7 @@ GitHub同时提供付费账户和为开源项目提供的免费账户。允许�
 ##关于作者
 
 ```javascript
-  var ihubo = {
-    nickName  : "草依山",
-    site : "http://jser.me"
+  var me = {
+    Name  : "hoosin"
   }
 ```
