@@ -4,9 +4,7 @@ GitHub 是一个共享虚拟主机服务，用于存放使用Git版本控制的�
 
 GitHub同时提供付费账户和为开源项目提供的免费账户。允许个人和组织建立和存取代码库以外，它也提供了一些方便社会化软件开发的功能，包括允许用户跟踪其他用户、组织、软件库的动态，对软件代码的改动和 bug 提出评论等。GitHub也提供了图表功能，用于显示开发者们怎样在代码库上工作以及软件的开发活跃程度。
 
-<div>
-	<a href="http://github.com" target="_blank"><img src="home.png"/></a>
-</div>
+[github首页](http://github.com/hoosin "github首页")
 
 ##Github有哪些功能？
 
@@ -14,6 +12,7 @@ GitHub同时提供付费账户和为开源项目提供的免费账户。允许�
     *  pull线上一个代码仓库到本地
     *  push本地一个代码仓库到线上
     *  强大的分支管理
+    *  版本对比功能
 * github-page
 * github-gist
 * github-blog
