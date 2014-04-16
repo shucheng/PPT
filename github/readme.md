@@ -73,9 +73,9 @@ TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tort
 
 * 创建一个新项目
 
-    *![pic](img/guide-1.png)
-    *![pic](img/guide-2.png)
-    *![pic](img/guide-3.png)
+    * ![pic](img/guide-1.png)
+    * ![pic](img/guide-2.png)
+    * ![pic](img/guide-3.png)
 
 
 ##Github-page
