@@ -25,7 +25,7 @@ GitHub同时提供付费账户和为开源项目提供的免费账户。允许�
 ##如何在 github push 自己第一行代码？
 
 工欲善其事，必先利其器。
-也就是说在使用github之前，你必须有“吃饭的碗”。当然，这里介绍的碗就是---git。 （官方版是[github for windows](https://windows.github.com/)） 
+也就是说在使用github之前，你必须有“吃饭的碗”。这里介绍的碗就是---git。 （官方版是：[github for windows](https://windows.github.com/)） 
 
 简单来说Git是一个免费的、开源的版本控制软件，从功能上讲，跟我们比较熟悉的Subversion(SVN)这类版本控制软件没什么两样。
 
