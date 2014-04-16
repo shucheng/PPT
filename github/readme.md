@@ -104,19 +104,26 @@ TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tort
 ![pic](img/guide-7.png)
 
 * 这时会提示你输入密码
+
 ![pic](img/guide-8.png)
 
 * 此时GUI已经显示，你的代码成功提交到服务器上去了
+
 ![pic](img/guide-9.png)
 
+* 返回Github，项目主页，已经显示，成功发布
 
-
+![pic](img/guide-10.png)
 
 ##Github-page
+[demo](http://hoosin.github.io/easyBtn/)
 
 ##Github-gist
+[demo](https://gist.github.com/hoosin/831c7db9afedea5ffc8f)
 
 ##Github-issues
+[demo](https://github.com/lifesinger/lifesinger.github.com/issues?labels=blog)
+
 
 
  
