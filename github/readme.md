@@ -66,7 +66,7 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 ####2. 安装TortoiseGit
 写在最前面，什么是TortiseGit？TortoiseGit是Windows下不错的一款图形化Git客户端工具，她省去了你被一大通命令行的烦恼。
-
+比如用命令行你要这样去pull一个仓库`$ git pull origin master`,而TortoiseGit，可以让你像SVN一样的图形化界面去Pull。
 TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tortoisegit/)客户端，安装就可以使用git的图形工具，至此，你已经可以像svn一样便捷的操作她了！
 
 **特别注意的是，公司使用Git需要代理**
@@ -99,7 +99,7 @@ TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tort
 
 ![pic](img/guide-6.png)
 
-*这里需要注意的是，git会比svn多了一个步骤，因为，刚才我们只是本地提交，现在我们要push，推到服务器上面去，如下图：*
+**这里需要注意的是，git会比svn多了一个步骤，因为，刚才我们只是本地提交，现在我们要push，推到服务器上面去，如下图：**
 
 ![pic](img/guide-7.png)
 
@@ -124,6 +124,20 @@ TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tort
 ##Github-issues
 [demo](https://github.com/lifesinger/lifesinger.github.com/issues?labels=blog)
 
+##Github上的资源
+
+
+[免费的计算机编程类中文书籍](https://github.com/hoosin/free-programming-books-zh_CN)
+
+[jquery](https://github.com/hoosin/jquery)
+
+[用issues写的博客](https://github.com/lifesinger/lifesinger.github.com/issues?labels=blog)
+
+[typo](https://github.com/sofish/typo.css)
+
+[移动HTML5](https://github.com/hoosin/mobile-web-favorites)
+
+
 
 
  
@@ -136,3 +150,5 @@ TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tort
     date  : "2014-4-16"
   }
 ```
+
+由于能力有限，欢迎大家可以 fork - -
