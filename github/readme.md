@@ -6,7 +6,7 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 
 [github首页](http://github.com/hoosin "github首页") | 
-[github首页](https://help.github.com/articles/github-glossary "官方文档")
+[官方文档](https://help.github.com/articles/github-glossary "官方文档")
 >国内类似的有：
 
 >[oschina](http://git.oschina.net/ "oschina") | [csdn](http://code.csdn.net "csdn") 
@@ -48,7 +48,7 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
  
 
-##关于
+##关于此Markdown
 
 ```javascript
   var markdown = {
