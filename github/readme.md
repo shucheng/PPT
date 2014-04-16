@@ -49,7 +49,7 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 ##Github-page
 
-##github-gist
+##Github-gist
  
 
 ##关于此Markdown
