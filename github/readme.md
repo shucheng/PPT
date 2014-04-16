@@ -75,15 +75,24 @@ TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tort
 ##我在Github，第一行代码 “hello world”
 
 * 创建一个新项目
+
 ![pic](img/guide-1.png)
+
 * 新建项目页面
+
 ![pic](img/guide-2.png)
+
 * 创建好的code-lib
+
 ![pic](img/guide-3.png)
+
 * 把code-lib从线上拉到本地 
 将页面上HTTPS clone URL 
+
 ![pic](img/guide-4.png)
+
 * pull图形界面
+
 ![pic](img/guide-5.png)
 
 
