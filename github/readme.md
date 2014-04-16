@@ -36,7 +36,7 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 
 ###这里介绍的碗就是——Git。
->[了解更多有关 Git](http://git.oschina.net/progit/)
+>[了解更多有关 Git](http://git.oschina.net/progit/) | [Git权威指南](http://book.douban.com/subject/6526452/)
 
 同生活中的许多伟大事件一样，Git 诞生于一个极富纷争大举创新的年代。Linux 内核开源项目有着为数众广的参与者。绝大多数的 Linux 内核维护工作都花在了提交补丁和保存归档的繁琐事务上（1991－2002年间）。到 2002 年，整个项目组开始启用分布式版本控制系统 BitKeeper 来管理和维护代码。
 
@@ -66,7 +66,8 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 ####2. 安装TortoiseGit
 写在最前面，什么是TortiseGit？TortoiseGit是Windows下不错的一款图形化Git客户端工具，她省去了你被一大通命令行的烦恼。
-比如用命令行你要这样去pull一个仓库`$ git pull origin master`,而TortoiseGit，可以让你像SVN一样的图形化界面去Pull。
+比如用命令行你要这样去 Pull一个仓库`$ git pull origin master` ,而TortoiseGit，可以让你像SVN一样的图形化界面去Pull。
+
 TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tortoisegit/)客户端，安装就可以使用git的图形工具，至此，你已经可以像svn一样便捷的操作她了！
 
 **特别注意的是，公司使用Git需要代理**
