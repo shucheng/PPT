@@ -69,13 +69,24 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tortoisegit/)客户端，安装就可以使用git的图形工具，至此，你已经可以像svn一样便捷的操作她了！
 
+**特别注意的是，公司使用Git需要代理**
+![pic](img/http.png)
+
 ##我在Github，第一行代码 “hello world”
 
 * 创建一个新项目
+![pic](img/guide-1.png)
+* 新建项目页面
+![pic](img/guide-2.png)
+* 创建好的code-lib
+![pic](img/guide-3.png)
+* 把code-lib从线上拉到本地 
+将页面上HTTPS clone URL 
+![pic](img/guide-4.png)
+* pull图形界面
+![pic](img/guide-5.png)
 
-    * ![pic](img/guide-1.png)
-    * ![pic](img/guide-2.png)
-    * ![pic](img/guide-3.png)
+
 
 
 ##Github-page
@@ -84,7 +95,7 @@ TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tort
 
 ##Github-issues
 
-**特别注意的是，公司使用Git需要代理**
+
  
 
 ##关于此Markdown
