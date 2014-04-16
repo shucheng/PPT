@@ -44,24 +44,31 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 ####1. 安装Git
 首先msysgit客户端，大家可以通过两种方式获取Git的软件，一个是在[官网](http://git-scm.com/)上获取，另一个可以点击这里[下载](https://code.google.com/p/msysgit/)。
->![1](http://drupalchina.cn/sites/default/files/get_image/git-st1.png)
 
->![1](http://drupalchina.cn/sites/default/files/get_image/git-st2.png)
+>![1](img/git-st1.png)
 
->![1](http://drupalchina.cn/sites/default/files/get_image/git-st3.png)
+>![1](img/git-st2.png)
 
->![1](http://drupalchina.cn/sites/default/files/get_image/git-st4.png)
+>![1](img/git-st3.png)
 
->![1](http://drupalchina.cn/sites/default/files/get_image/git-st5.png)
+>![1](img/git-st4.png)
 
->![1](http://drupalchina.cn/sites/default/files/get_image/git-st6.png)
+>![1](img/git-st5.png)
 
->![1](http://drupalchina.cn/sites/default/files/get_image/git-st7.png)
+>![1](img/git-st6.png)
 
->![1](http://drupalchina.cn/sites/default/files/get_image/git-st8.png)
+>![1](img/git-st7.png)
 
->![1](http://drupalchina.cn/sites/default/files/get_image/git-st9.png)
+>![1](img/git-st8.png)
+
+>![1](img/git-st9.png)
+
+
 ####2. 安装TortoiseGit
+写在最前面，什么是TortiseGit？TortoiseGit是Windows下不错的一款图形化Git客户端工具，她省去了你被一大通命令行的烦恼。
+
+TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tortoisegit/)客户端，安装就可以使用git的图形工具，至此，你已经可以像svn一样便捷的操作她了！
+
 ##我在Github，第一行代码 “hello world”
  
 
