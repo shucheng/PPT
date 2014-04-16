@@ -42,13 +42,14 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 *简单来说Git是一个免费的、开源的版本控制软件，从功能上讲，跟我们比较熟悉的Subversion(SVN)这类版本控制软件没什么两样。*
 
-####安装
+####1. 安装git
+####1. 安装TortoiseGit
 ##我在Github，第一行代码 “hello world”
  
 
-##感激
-感谢以下的项目,排名不分先后
+##Github-page
 
+##github-gist
  
 
 ##关于此Markdown
