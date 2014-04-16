@@ -51,6 +51,8 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 ##Github-gist
 
+##Github-issues
+
 **特别注意的是，公司使用Github需要代理**
  
 
