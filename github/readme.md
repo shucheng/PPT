@@ -17,8 +17,8 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 ##Github有哪些功能？
 
 * [code lib](http://github.com)
-    *  pull线上一个代码仓库到本地
-    *  push本地一个代码仓库到线上
+    *  pull
+    *  push
     *  fork
     *  star
 * [github-page](http://hoosin.github.io/easyBtn/)
@@ -33,6 +33,8 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 工欲善其事，必先利其器。
 也就是说在使用github之前，你必须有“吃饭的碗”。
 >官方版是：[github for windows](https://windows.github.com/)
+
+
 ###这里介绍的碗就是---git。
 >[了解更多有关git](http://git.oschina.net/progit/)
 
@@ -40,7 +42,7 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 *简单来说Git是一个免费的、开源的版本控制软件，从功能上讲，跟我们比较熟悉的Subversion(SVN)这类版本控制软件没什么两样。*
 
-##捐助开发者
+##我在Github，第一行代码 “hello world”
  
 
 ##感激
