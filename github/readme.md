@@ -95,6 +95,20 @@ TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tort
 
 ![pic](img/guide-5.png)
 
+* 给代码仓库添加一个文件
+
+![pic](img/guide-6.png)
+
+*这里需要注意的是，git会比svn多了一个步骤，因为，刚才我们只是本地提交，现在我们要push，推到服务器上面去，如下图：*
+
+![pic](img/guide-7.png)
+
+* 这时会提示你输入密码
+![pic](img/guide-8.png)
+
+* 此时GUI已经显示，你的代码成功提交到服务器上去了
+![pic](img/guide-9.png)
+
 
 
 
