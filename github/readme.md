@@ -16,22 +16,22 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 ##Github有哪些功能？
 
-* [code lib](http://github.com)
-    *  pull
-    *  push
-    *  fork
-    *  star
-* [github-page](http://hoosin.github.io/easyBtn/)
-* [github-gist](https://gist.github.com/)
-* [github-blog](https://github.com/blog)
-* [github-Issues](https://github.com/hoosin/easyBtn/issues?state=closed)
-* 支持`markdown`语法[markdown语法](https://github.com/hoosin/MarkDown)
+* [Code lib](http://github.com)
+    *  Pull
+    *  Push
+    *  Fork
+    *  Star
+* [Github-page](http://hoosin.github.io/easyBtn/)
+* [Github-gist](https://gist.github.com/)
+* [Github-blog](https://github.com/blog)
+* [Github-Issues](https://github.com/hoosin/easyBtn/issues?state=closed)
+* 支持`Markdown`语法[Markdown语法](https://github.com/hoosin/MarkDown)
 * 当然要是你够热爱github社区的话可以[猛戳这里](http://shop.github.com/ "github-shop")
 
 ##初探Github，你必须知道的事儿！
 
 工欲善其事，必先利其器。
-也就是说在使用github之前，你必须有“吃饭的碗”。
+也就是说在使用Github之前，你必须有“吃饭的碗”。
 >官方版是：[github for windows](https://windows.github.com/)
 
 
@@ -50,6 +50,8 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 ##Github-page
 
 ##Github-gist
+
+**特别注意的是，公司使用Github需要代理**
  
 
 ##关于此Markdown
@@ -57,6 +59,6 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 ```javascript
   var markdown = {
     Name  : "github，想说爱你不容易",
-    date   : "2014-4-16"
+    date  : "2014-4-16"
   }
 ```
