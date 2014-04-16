@@ -43,7 +43,25 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 *简单来说Git是一个免费的、开源的版本控制软件，从功能上讲，跟我们比较熟悉的Subversion(SVN)这类版本控制软件没什么两样。*
 
 ####1. 安装Git
-####1. 安装TortoiseGit
+首先msysgit客户端，大家可以通过两种方式获取Git的软件，一个是在[官网](http://git-scm.com/)上获取，另一个可以点击这里[下载](https://code.google.com/p/msysgit/)。
+>![1](http://drupalchina.cn/sites/default/files/get_image/git-st1.png)
+
+>![1](http://drupalchina.cn/sites/default/files/get_image/git-st2.png)
+
+>![1](http://drupalchina.cn/sites/default/files/get_image/git-st3.png)
+
+>![1](http://drupalchina.cn/sites/default/files/get_image/git-st4.png)
+
+>![1](http://drupalchina.cn/sites/default/files/get_image/git-st5.png)
+
+>![1](http://drupalchina.cn/sites/default/files/get_image/git-st6.png)
+
+>![1](http://drupalchina.cn/sites/default/files/get_image/git-st7.png)
+
+>![1](http://drupalchina.cn/sites/default/files/get_image/git-st8.png)
+
+>![1](http://drupalchina.cn/sites/default/files/get_image/git-st9.png)
+####2. 安装TortoiseGit
 ##我在Github，第一行代码 “hello world”
  
 
@@ -53,7 +71,7 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 
 ##Github-issues
 
-**特别注意的是，公司使用Github需要代理**
+**特别注意的是，公司使用Git需要代理**
  
 
 ##关于此Markdown
