@@ -152,4 +152,4 @@ TortoiseGit的安装很简单，你只需[下载](https://code.google.com/p/tort
   }
 ```
 
-由于能力有限，欢迎大家可以 fork - -
+由于能力有限，欢迎大家 fork - -
