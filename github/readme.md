@@ -25,7 +25,7 @@ GitHub 同时提供付费账户和为开源项目提供的免费账户。允许�
 * [Github-gist](https://gist.github.com/)
 * [Github-blog](https://github.com/blog)
 * [Github-Issues](https://github.com/hoosin/easyBtn/issues?state=closed)
-* 支持`Markdown`语法[Markdown语法](https://github.com/hoosin/MarkDown)
+* 支持`[Markdown语法](https://github.com/hoosin/MarkDown)`语法
 * 当然要是你够热爱github社区的话可以[猛戳这里](http://shop.github.com/ "github-shop")
 
 ##初探Github，你必须知道的事儿！
